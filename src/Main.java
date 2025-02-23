@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello Vistula");
 
-        for (int i = 1; i <= 3; i++) {
+        for (int i = 1; i <= 7; i++) {
             System.out.println("i = " + i);
         }
 
