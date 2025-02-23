@@ -9,5 +9,6 @@ public class Main {
         }
 
         System.out.println("Bye Vistula");
+        System.out.println("Thank you");
     }
 }
